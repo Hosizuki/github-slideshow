@@ -45,8 +45,7 @@
 
 ### 在线演示
 
-[demo](https://zhengbili.github.io/programs/ComputerGraphics/MyPlatform/MyPlatform.html)
-[源代码](https://github.com/zhengbili/zhengbili.github.io/blob/master/programs/ComputerGraphics/MyPlatform/)
+[demo](https://hosizuki.github.io/github-slideshow/ComputerGraphics/MyPlatform/MyPlatform.html)
 
 ## Only My Cube
 
@@ -68,24 +67,4 @@
 
 ### 在线演示
 
-[demo](https://zhengbili.github.io/programs/ComputerGraphics/OnlyMyCube/OnlyMyCube.html)
-[源代码](https://github.com/zhengbili/zhengbili.github.io/blob/master/programs/ComputerGraphics/OnlyMyCube/)
-
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-
-<div id="gitalk-container"></div>     
-<script type="text/javascript">
-    var gitalk = new Gitalk({
-    // gitalk的主要参数
-      clientID: `66f501f4d72bd67e824d`,   //上面获取到的值
-      clientSecret: `623a2d94e0b64b247b890d324d8a7ef902ec1ac4`,//上面获取到的值
-      repo: `zhengbili.github.io`,  //您刚才建立仓库的名字
-      owner: 'zhengbili',   //你的GitHub用户名字
-      admin: ['zhengbili'],  //你的GitHub用户的名字
-      id: 'programs.ComputerGraphics', //id不能重复，如果重复就会把其他页面的评论引进来
-        });
-      gitalk.render('gitalk-container');
-</script>
-
-<div align="center"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244405&c=9733528" onerror="javascript:this.src='https://www.cutercounter.com/hits.php?id=hexdaxnf&nd=6&style=11';" alt="计数器" /></div>
+[demo](https://hosizuki.github.io/github-slideshow/ComputerGraphics/OnlyMyCube/OnlyMyCube.html)
